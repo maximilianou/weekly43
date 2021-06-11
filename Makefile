@@ -17,5 +17,9 @@ step17 web3-migrate:
 	cd dbank-starter_kit; truffle migrate
 step18 web3-test:
 	cd dbank-starter_kit; truffle test
+step19 web3-migrate-blockchain:
+	cd dbank-starter_kit; truffle migrage --reset
+
+	
 
 
